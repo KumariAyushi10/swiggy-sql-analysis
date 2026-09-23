@@ -1,4 +1,3 @@
-
 SELECT restaurant_name, city, avg_ratings, total_ratings
 FROM restaurants
 ORDER BY avg_ratings DESC, total_ratings DESC
