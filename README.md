@@ -35,11 +35,11 @@ This project analyzes restaurant-level data from Swiggy to uncover trends in pri
 
 ```text
 ├── data/
-│   └── swiggy.csv       # Raw restaurant dataset
+│   └── swiggy.csv       
 ├── sql/
-│   └── analysis.sql     # Database schema and analytical queries
-├── screenshots/         # Query output results (query1.png to query5.png)
-└── README.md            # Project documentation
+│   └── analysis.sql     
+├── screenshots/         
+└── README.md            
 ```
 
 ## How to Run It
